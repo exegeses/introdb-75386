@@ -8,6 +8,8 @@
     int  -2147483648 to 2147483647 | 4294967295  
     bigint 18446744073709551615  
 
+<img src="numeros.png">
+
     boolean    |  1 ó 0     --- tiniynt(1)  
 
     float   0.402823466  
@@ -26,6 +28,8 @@
     smallText   65535
     mediumText  16777215
     Text        4294967295
+
+<img src="textos.png">
 
 ## Fechas
 
